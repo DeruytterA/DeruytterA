@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## About me
+I'm studying informatics at the [University of Ghent](https://www.ugent.be/en).
+Currently I'm in my second bachelor. I can write C, Java, Python, javascript, Kotlin and Haskell code. Although to be fair I'm not great at all of them. 
+
+
+
 <!--
 **DeruytterA/DeruytterA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
