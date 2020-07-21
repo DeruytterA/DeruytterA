@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## About me
 I'm studying informatics at the [University of Ghent](https://www.ugent.be/en).
 Currently I'm in my second bachelor. I can write C, Java, Python, javascript, Kotlin and Haskell code. Although to be fair I'm not great at all of them. 
