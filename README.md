@@ -1,6 +1,8 @@
 ## About me
 I'm in my second [bachelor of sciences in informatics](https://studiekiezer.ugent.be/bachelor-of-science-in-computer-science) at the [University of Ghent](https://www.ugent.be/en).
+
 Currently I'm studying for exams and working on enhancing my older projects with documentation, README, licences etc.
+
 I can write C, Java, Python, javascript, Kotlin and Haskell code (not in any particular order). Although I am definitely better at some than others.
 
 
@@ -9,6 +11,7 @@ You can contact me through email
 * on my peronal email: [art.deruytter@gmail.com](mailto:art.deruytter@gmail.com)
 * on my University email: [arthur.deruytter@ugent.be](mailto:arthur.deruytter@ugent.be)
 
+If you wish to contact me, I am fluent in Dutch, French and English so please only contact me in one of these languages.
 
 <!--
 Here are some ideas to get you started:
