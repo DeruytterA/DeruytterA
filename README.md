@@ -1,12 +1,16 @@
 ## About me
-I'm studying informatics at the [University of Ghent](https://www.ugent.be/en).
-Currently I'm in my second bachelor. I can write C, Java, Python, javascript, Kotlin and Haskell code. Although to be fair I'm not great at all of them. 
+I'm in my second [bachelor of sciences in informatics](https://studiekiezer.ugent.be/bachelor-of-science-in-computer-science) at the [University of Ghent](https://www.ugent.be/en).
+Currently I'm studying for exams and working on enhancing my older projects with documentation, README, licences etc.
+I can write C, Java, Python, javascript, Kotlin and Haskell code (not in any particular order). Although I am definitely better at some than others.
 
+
+## Contact me
+You can contact me through email 
+* on my peronal email: [art.deruytter@gmail.com](mailto:art.deruytter@gmail.com)
+* on my University email: [arthur.deruytter@ugent.be](mailto:arthur.deruytter@ugent.be)
 
 
 <!--
-**DeruytterA/DeruytterA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
