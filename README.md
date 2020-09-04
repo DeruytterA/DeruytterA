@@ -1,7 +1,7 @@
 ## About me
 I'm in my second [bachelor of sciences in informatics](https://studiekiezer.ugent.be/bachelor-of-science-in-computer-science) at the [University of Ghent](https://www.ugent.be/en).
 
-Currently I'm studying for exams and working on enhancing my older projects with documentation, README, licences etc.
+Currently I'm writing my first website using [Vue](https://vuejs.org/) and working on enhancing my older projects with documentation, README's, licences etc.
 
 I can write C, Java, Python, javascript, Kotlin and Haskell code (not in any particular order). Although I am definitely better at some than others.
 
