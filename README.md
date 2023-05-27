@@ -3,6 +3,11 @@ I'm in my third [bachelor of sciences in informatics](https://studiekiezer.ugent
 
 I can write C, Java, Python, javascript, Kotlin and Haskell code (not in any particular order). Although I am definitely better at some than others.
 
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=deruyttera&count_private=true&show_icons=true&theme=github_dark&hide_border=true&border_radius=10)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deruyttera&count_private=true&show_icons=true&theme=github_dark&langs_count=10&hide_border=true&border_radius=10&layout=compact&card_width=445)
+
 
 ## Contact me
 You can contact me through email 
